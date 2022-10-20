@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/-bijupizza/static/css/main.eaa50e6e.css",
+    "main.js": "/-bijupizza/static/js/main.b9e1bfa8.js",
+    "static/media/bg.jpg": "/-bijupizza/static/media/bg.38f4b3510c1c2bf3df46.jpg",
+    "index.html": "/-bijupizza/index.html",
+    "main.eaa50e6e.css.map": "/-bijupizza/static/css/main.eaa50e6e.css.map",
+    "main.b9e1bfa8.js.map": "/-bijupizza/static/js/main.b9e1bfa8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eaa50e6e.css",
+    "static/js/main.b9e1bfa8.js"
+  ]
+}
